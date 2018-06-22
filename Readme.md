@@ -5,3 +5,8 @@ https://medium.freecodecamp.org/express-js-and-aws-lambda-a-serverless-love-stor
 
 configure Claudia :
 https://claudiajs.com/tutorials/installing.html
+
+MOVED TO:
+https://github.com/gpsimpact/NVRIS
+
+Much better serverless alternative for testing and deployment.
